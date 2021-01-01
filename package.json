@@ -7,7 +7,7 @@
     "lib": "lib"
   },
   "dependencies": {
-    "@octokit/rest": "^16.34.1",
+    "@octokit/rest": "^16.43.2",
     "dedent": "^0.7.0",
     "npmlog": "^4.1.2",
     "pretty-ms": "^5.0.0",
